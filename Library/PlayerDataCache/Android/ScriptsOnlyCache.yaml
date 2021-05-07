@@ -71,29 +71,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11846}
+      Script: {instanceID: 11868}
     - Class: 114
-      Script: {instanceID: 11848}
+      Script: {instanceID: 11870}
     - Class: 114
-      Script: {instanceID: 12364}
+      Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 12560}
+      Script: {instanceID: 12594}
     - Class: 114
-      Script: {instanceID: 12564}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 13648}
+      Script: {instanceID: 12868}
     - Class: 114
-      Script: {instanceID: 13802}
+      Script: {instanceID: 13688}
     - Class: 114
-      Script: {instanceID: 14064}
+      Script: {instanceID: 13842}
     - Class: 114
-      Script: {instanceID: 14220}
+      Script: {instanceID: 14108}
     - Class: 114
-      Script: {instanceID: 14254}
+      Script: {instanceID: 14266}
     - Class: 114
-      Script: {instanceID: 14310}
+      Script: {instanceID: 14300}
     - Class: 114
-      Script: {instanceID: 22496}
+      Script: {instanceID: 14356}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -154,21 +154,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11848}
+      Script: {instanceID: 11870}
     - Class: 114
-      Script: {instanceID: 11996}
+      Script: {instanceID: 12022}
     - Class: 114
-      Script: {instanceID: 12364}
+      Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 12560}
+      Script: {instanceID: 12594}
     - Class: 114
-      Script: {instanceID: 13468}
+      Script: {instanceID: 12868}
     - Class: 114
-      Script: {instanceID: 14310}
+      Script: {instanceID: 13508}
     - Class: 114
-      Script: {instanceID: 17282}
+      Script: {instanceID: 14356}
     - Class: 114
-      Script: {instanceID: 22496}
+      Script: {instanceID: 16958}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 122
@@ -218,6 +218,12 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
+      Hash: eaff205ef6bbce7900de030752683b5c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MobileOptimizedWater.Scripts
+    className: TouchRotator
+  - hash:
+      serializedVersion: 2
       Hash: f40fedccd4adbc76605bea6d67537e4b
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -242,6 +248,12 @@ ScriptsOnlyBuild:
     className: TMP_Dropdown
   - hash:
       serializedVersion: 2
+      Hash: dc9739099a5cce8e702b74e354f4d583
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Scripts.Water
+    className: WaterMaterialSwitcher
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Gvr.Internal
@@ -264,6 +276,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
     className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: ab9fadd6ba00d6d03c17baa523132ffb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MobileOptimizedWater.Scripts
+    className: AnimationStarter
   - hash:
       serializedVersion: 2
       Hash: 04e4a8b0447477cc4e933d9e5311188f
@@ -428,6 +446,12 @@ ScriptsOnlyBuild:
     className: XRLoader
   - hash:
       serializedVersion: 2
+      Hash: 7c5084f22bda962db730d7217e88651b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: LowPolyWater
+    className: LowPolyWater
+  - hash:
+      serializedVersion: 2
       Hash: 11182ae33aeebaa701c6f03cb7f19976
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -480,6 +504,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 1b722263b33e91fa785a6555c98feca8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Scripts.Water
+    className: WaterArea
   - hash:
       serializedVersion: 2
       Hash: bf3913f0d6c694bf20e1d681c79a4993
@@ -558,6 +588,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: bf2bd98917f7148e5b99e4ff2bbab767
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Scripts.Water
+    className: WaterPropertyBlockSetter
   - hash:
       serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
@@ -698,6 +734,12 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MobileOptimizedWater.Scripts
+    className: CameraRotator
+  - hash:
+      serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
@@ -714,6 +756,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GvrControllerVisual
+  - hash:
+      serializedVersion: 2
+      Hash: ac93773f9bac168f34bcc2769c36a118
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MobileOptimizedWater.Scripts
+    className: FPSUI
   - hash:
       serializedVersion: 2
       Hash: 893dbdbfe611d62e230a686ea89f1efd
@@ -738,6 +786,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GvrPointerGraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 01ba255072c4172db07f44204587b084
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MobileOptimizedWater.Scripts
+    className: CameraDepthSlider
   - hash:
       serializedVersion: 2
       Hash: df64ad7cdad89053ed97218d03e92c1f
@@ -894,62 +948,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 7c5084f22bda962db730d7217e88651b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: LowPolyWater
-    className: LowPolyWater
-  - hash:
-      serializedVersion: 2
-      Hash: eaff205ef6bbce7900de030752683b5c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.MobileOptimizedWater.Scripts
-    className: TouchRotator
-  - hash:
-      serializedVersion: 2
-      Hash: dc9739099a5cce8e702b74e354f4d583
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.Scripts.Water
-    className: WaterMaterialSwitcher
-  - hash:
-      serializedVersion: 2
-      Hash: ab9fadd6ba00d6d03c17baa523132ffb
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.MobileOptimizedWater.Scripts
-    className: AnimationStarter
-  - hash:
-      serializedVersion: 2
-      Hash: 1b722263b33e91fa785a6555c98feca8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.Scripts.Water
-    className: WaterArea
-  - hash:
-      serializedVersion: 2
-      Hash: bf2bd98917f7148e5b99e4ff2bbab767
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.Scripts.Water
-    className: WaterPropertyBlockSetter
-  - hash:
-      serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.MobileOptimizedWater.Scripts
-    className: CameraRotator
-  - hash:
-      serializedVersion: 2
-      Hash: ac93773f9bac168f34bcc2769c36a118
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.MobileOptimizedWater.Scripts
-    className: FPSUI
-  - hash:
-      serializedVersion: 2
-      Hash: 01ba255072c4172db07f44204587b084
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Assets.MobileOptimizedWater.Scripts
-    className: CameraDepthSlider
   platform: 13
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Principal.unity
-  playerPath: C:/Users/nelson/Documents/INM/GoogleVR2020/GoogleVR2020/UO720VRFinal.apk
+  playerPath: C:/Users/nelson/Documents/INM/GoogleVR2020/GoogleVR2020/UO720VRSec.apk
